@@ -7,7 +7,7 @@ export default function Home() {
     <>
       <MainLayout>
       <section>
-        time to learn next!
+        Java projects begin here.
       </section> 
       </MainLayout>
     </>
