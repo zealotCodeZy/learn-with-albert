@@ -32,6 +32,11 @@ const MainLayout = ({children}) =>{
                                 Java projects
                             </Link>
                         </Menu.Item>
+                        <Menu.Item key="Map">
+                            <Link href="/Map">
+                                Mapshow
+                            </Link>
+                        </Menu.Item>
                     </Menu>
                 </Header>
                 <Content>
